@@ -1,0 +1,2 @@
+# Hotel-FinSight-AI-Visual-Intelligence-for-Financial-Cost-Management
+Hotel FinSight AI AI-powered Visual Governance for Financial Cost Management A next-generation visual intelligence system that automates receiving audits, inventory verification, and asset tracking. Using advanced detection and tracking models, FinSight AI transforms hotel financial oversight into a proactive, data-driven process.
